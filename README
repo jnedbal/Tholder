@@ -1,0 +1,1 @@
+Matlab script producing the 3D model of the holder for Dolomite T-junction chip in BRL-CAD format. Its STL representation and a movie for presentation purposes are also generated. The script assumes BRL-CAD installation in folder: "/usr/brlcad/bin/". It also requires installation of mencoder to produce the movies.
